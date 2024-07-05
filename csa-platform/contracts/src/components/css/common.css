@@ -1,0 +1,37 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    background-color: #ecf0f1;
+  }
+  
+  .form-button, .btn, .login-button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 200px;
+  }
+  
+  .form-button:hover, .btn:hover, .login-button:hover {
+    background-color: #2980b9;
+  }
+  
+  .produce-item {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 4px;
+    background-color: #fff;
+  }
+  
+  h2 {
+    color: #2c3e50;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
